@@ -1,0 +1,4 @@
+name: JSONTranslator
+version: 1.0.0
+antigen: aviothic\translator
+author: aviothicmc
